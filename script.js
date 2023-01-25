@@ -12,4 +12,5 @@ function palindrome(str){
 		}
 	return true;
 }
+console.log(palindrome("racecar"));
 module.exports = palindrome
